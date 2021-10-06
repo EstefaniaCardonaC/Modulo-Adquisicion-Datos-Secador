@@ -1,0 +1,2 @@
+# Modulo-Adquisicion-Datos-Secador
+En este repositorio se encuentran el código y el diseño relacionado con el proyecto: "Diseño e implementación de un módulo de adquisición de datos para un secador convectivo". Realizado para obtener el titulo de Ingeniero Agroindustrial en la Universidad de Antioquia. Estudiante: Estefanía Cardona Castro. Asesores: Andrés Felipe Castaño Franco y Helber Andrés Carvajal Castaño
